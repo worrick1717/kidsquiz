@@ -1,0 +1,35 @@
+[
+    {
+        "question": "Who was the first person to land on the moon?",
+        "choice1": "Neil Armstrong",
+        "choice2": "Kylie Jenner",
+        "choice3": "Aramni",
+        "choice4": "His Foot",
+        "answer": 1
+    },
+    {
+        "question": "Inside which HTML do we put JavaScript?",
+        "choice1": "<javascript>",
+        "choice2": "<js>",
+        "choice3": "<script>",
+        "choice4": "<java script>",
+        "answer": 3
+    },
+    {
+        "question": "How do we write 'Hello world' in alert box?",
+        "choice1": "msgBox('Hello world');",
+        "choice2": "alertBox('Hello world');",
+        "choice3": "msg('Hello world');",
+        "choice4": "alert('Hello world');",
+        "answer": 4
+    },
+    {
+        "question": "How do we write 'Hello world' in alert box?",
+        "choice1": "msgBox('Hello world');",
+        "choice2": "alertBox('Hello world');",
+        "choice3": "msg('Hello world');",
+        "choice4": "alert('Hello world');",
+        "answer": 4
+    }
+    
+]
